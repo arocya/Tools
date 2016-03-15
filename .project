@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Tools</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/TipCalculator.java</name>
+			<type>1</type>
+			<location>/Users/arionalmond/GitHub/tipCalculator/TipCalculator.java</location>
+		</link>
+		<link>
+			<name>src/UsingStringMethods.java</name>
+			<type>1</type>
+			<location>/Users/arionalmond/GitHub/UsingStringMethod/UsingStringMethods.java</location>
+		</link>
+		<link>
+			<name>src/VowelsReplaced.java</name>
+			<type>1</type>
+			<location>/Users/arionalmond/GitHub/VowelsReplaced/VowelsReplaced.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
